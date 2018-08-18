@@ -2,9 +2,9 @@
 
 const TEXT_CONSTANT = 'asd';
 
-$user_name = "Igor";
+$username = "Igor";
 
-function show_something()
+function showSomething()
 {
     return 'SOMETHING';
 }
